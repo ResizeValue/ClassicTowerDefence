@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -40,8 +40,13 @@
 		},
 		{
 			"Name": "OpenRTSCamera",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/94e9872ad3754e798b6ec53f4494f5de"
+		},
+		{
+			"Name": "RTSCameraSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ecfa789ac02a49c3bcf7aefc00304cac"
 		}
 	]
 }
